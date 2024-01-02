@@ -3,7 +3,7 @@
 Currently working on some open source project, and open to hire.
 
 
-<a href="https://github.com/yuka-astersea">
+<a href="https://github.com/yuka-astersia">
 <p align="left">
 <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yuka-astersia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://streak-stats.demolab.com/?user=yuka-astersia&theme=algolia"/>
