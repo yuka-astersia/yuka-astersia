@@ -10,6 +10,6 @@ Currently working on some open source project, and open to hire.
 </p>
 </a>
 
- How to reach me:
+How to reach me:
  [LinkedIn](https://www.linkedin.com/in/yuka-astersia/)
  [Youtube](https://youtube.com/@YukaAstersia)
